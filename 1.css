@@ -1,0 +1,18 @@
+body{
+  background-color: #515050;
+  color:white;
+  font-family: 'Montserrat', sans-serif;
+  margin-left: 1em;
+} div.title {
+  font-size: 6em;
+  letter-spacing: 0.3em;
+  margin-bottom: 0.2em;
+} div.description {
+  font-size: 3em;
+  margin-bottom: 0.4em;
+} div.youtube {
+  font-size: 2em;
+  color: white;
+} a {
+  text-decoration: none;
+}
